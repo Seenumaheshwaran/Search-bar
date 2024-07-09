@@ -1,0 +1,16 @@
+.search{
+    margin: 250px auto;
+    display: flex;
+    width: 250px;
+    box-shadow: 2px 2px;
+    border: 2px solid;
+    padding: 7px;
+}
+.search input{
+    width: 200px;
+    padding: 10px;
+}
+
+.search i{
+    font-size: 30px;
+}
